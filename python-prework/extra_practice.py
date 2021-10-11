@@ -4,3 +4,4 @@ def hey_there(name):
     return print('Hello ' + name + '!')
 
 hey_there('Laura')
+hey_there('Friend')
