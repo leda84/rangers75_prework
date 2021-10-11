@@ -63,3 +63,4 @@ def is_consecutive2(a_list):
     print(status)
 
 is_consecutive2([3,4,5,6])
+is_consecutive2([1,5,2,3])
